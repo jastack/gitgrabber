@@ -1,0 +1,19 @@
+{
+  "name": "github-grabber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "animal_fun.js",
+  "scripts": {
+    "start": "nodemon github_grabber.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "querystring": "^0.2.0"
+  }
+}
